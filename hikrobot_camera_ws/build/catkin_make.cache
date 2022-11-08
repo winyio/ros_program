@@ -1,0 +1,2 @@
+hikrobot_camera
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/workspace/ros_program/hikrobot_camera_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/workspace/ros_program/hikrobot_camera_ws/install -G Unix Makefiles

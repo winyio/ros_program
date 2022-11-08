@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/ros_program/hikrobot_camera_ws/install
+
+Name: hikrobot_camera
+Description: Description of hikrobot_camera
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
